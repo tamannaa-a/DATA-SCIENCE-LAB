@@ -41,8 +41,7 @@ Through these experiments, students gain practical exposure to:
 
 ### Development Environment
 - RStudio  
-- Jupyter Notebook  
-- VS Code  
+- Colab
 
 ---
 
